@@ -1,0 +1,440 @@
+    1  git init
+    2  git add -all
+    3  git add --all
+    4  git add --all
+    5  cls
+    6  clear
+    7  ls
+    8  ls -la
+    9  ls
+   10  cd Desktop/
+   11  ls
+   12  mkdir hola-mundo
+   13  ls
+   14  cd hola-mundo/
+   15  ls
+   16  clear
+   17  git init
+   18  ls -ls
+   19  ls -la
+   20  git add -all
+   21  git add --all
+   22  ls
+   23  ls
+   24  touch 
+   25  touch hola-mundo.txt
+   26  --help
+   27  -help
+   28  help
+   29  nano hola-mundo.txt
+   30  git commit -m "Commit Inicial del proyecto"
+   31  ls
+   32  git add --all
+   33  git commit -m "Commit Inicial del proyecto"
+   34  https://github.com/AitorAD/hola-mundo.git
+   35  [200~ No such file or directory
+   36  https://github.com/AitorAD/hola-mundo.git
+   37  git remote add origin https://github.com/AitorAD/hola-mundo.git
+   38  git push -u origin master
+   39  nano hola-mundo.txt 
+   40  git commit -m "Commit Editado del proyecto"
+   41  git push -u origin master
+   42  git add --all
+   43  git commit -m "Commit Editado del proyecto"
+   44  git push -u origin master
+   45  clear
+   46  ls
+   47  cd Desktop/
+   48  ls
+   49  cd Practica1UD3/
+   50  ls+
+   51  ls
+   52  cd practica1/
+   53  clear
+   54  ls
+   55  cd jquery
+   56  npm install
+   57  git clone https://github.com/jquery/jquery.git
+   58  ls
+   59  cd jquery/
+   60  ls
+   61  git log
+   62  clear
+   63  ls
+   64  cd..
+   65  ls
+   66  cd ..
+   67  ls
+   68  cd ..
+   69  ls
+   70  clear
+   71  ls
+   72  cd practica1-2/
+   73  ls
+   74  clear
+   75  git init practica1ED
+   76  ls
+   77  cd practica1ED/
+   78  touch archivo1.txt
+   79  ls
+   80  git log
+   81  ls
+   82  clear
+   83  ls -l
+   84  ls
+   85  git status
+   86  git log
+   87  ls
+   88  clear
+   89  git status
+   90  git add -all
+   91  git add --all
+   92  git status
+   93  git congid
+   94  git congig
+   95  git --help
+   96  git congig --list
+   97  git config --list
+   98  clear
+   99  git config --list
+  100  ls
+  101  cd Desktop/
+  102  ls
+  103  cd Practica1UD3/
+  104  ls
+  105  cd practica1-2/
+  106  ls
+  107  cd practica1ED/
+  108  ls
+  109  clear
+  110  git -config --global user.name "Aitor"
+  111  git config --global user.name "Aitor"
+  112  ls
+  113  git config --global user.email "aduqueagullo@gmail.com"
+  114  git config --list
+  115  clear
+  116  ls
+  117  git commit -m "Primer commit practica 1"
+  118  touch archivo2.txt
+  119  touch archivo3.txt
+  120  git add archivo2.txt 
+  121  git commit -m "Segundo commit Practica 1"
+  122  clear
+  123  git add archivo3.txt 
+  124  git commit -m "Tercer commit practica 1"
+  125  git log
+  126  nano archivo1.txt 
+  127  git status
+  128  git add archivo1.txt 
+  129  nano archivo2.txt 
+  130  nano archivo3.txt 
+  131  git status
+  132  git add archivo2.txt archivo3.txt 
+  133  git commit -m "Modificacion de los archivos 2 y 3"
+  134  git log
+  135  ls
+  136  cd..
+  137  cd ..
+  138  ñs
+  139  ls
+  140  cd ..
+  141  ls
+  142  cd ..
+  143  ls
+  144  clear
+  145  ls
+  146  ls /bin
+  147  clear
+  148  ls
+  149  ls /etc
+  150  cd ..
+  151  ls
+  152  clear
+  153  ls
+  154  cd usr/
+  155  ls
+  156  ls 
+  157  ls /bin
+  158  ls 
+  159  ls /etc
+  160  ls /lib
+  161  cd ..
+  162  clear
+  163  ls
+  164  cd c
+  165  clear
+  166  cd ..
+  167  cd d
+  168  ls
+  169  cd 1º\ DAM/
+  170  ls
+  171  ls EntornosDesarrollamiento/
+  172  cd UD3
+  173  ls
+  174  clear
+  175  cd ud3
+  176  ls
+  177  clear
+  178  cd EntornosDesarrollamiento/
+  179  cd UD3/
+  180  ls
+  181  cd Practica2UD3/
+  182  ls
+  183  clear
+  184  mkdir practica2
+  185  ls
+  186  clear
+  187  ls
+  188  cd practica2/
+  189  git init
+  190  nano contenido.txt
+  191  git status
+  192  git add contenido.txt 
+  193  git config --global --add safe.directory 'D:/1º DAM/EntornosDesarrollamiento/UD3/Practica2UD3/practica2'
+  194  git add contenido.txt 
+  195  clear
+  196  git status
+  197  git commit -m "Primer commit practica 2"
+  198  nano contenido.txt 
+  199  git status
+  200  ls
+  201  cd Desktop/
+  202  ls
+  203  clear
+  204  mkdir pruebaRamasGit
+  205  ls pruebaRamasGit/
+  206  ls
+  207  cd pruebaRamasGit/
+  208  ls
+  209  clear
+  210  ls
+  211  clear
+  212  git init
+  213  touch A.txt
+  214  git branch
+  215  nano A.txt 
+  216  git branch ramaB
+  217  git remote add origin https://github.com/AitorAD/pruebaRamas.git
+  218  git add A.txt 
+  219  git branch ramaB
+  220  git commit -m "Primer commit achivo A.txt"
+  221  git status
+  222  ls
+  223  cd Desktop/
+  224  cd pruebaRamasGit/
+  225  ls
+  226  git status
+  227  git add A.txt 
+  228  git status
+  229  git branch ramaB
+  230  ls
+  231  nano B.txt 
+  232  ls
+  233  git branch
+  234  git checkout master
+  235  ls
+  236  git checkout ramaB
+  237  ls
+  238  git checkout master
+  239  ls
+  240  git branch ramaC
+  241  git checkout ramaC
+  242  ls
+  243  nano C.txt
+  244  ls
+  245  git 
+  246  ls
+  247  ls
+  248  git checkout ramaC
+  249  git add C.txt 
+  250  git commit -m "Archivo C.txt en la ramaC"
+  251  ls
+  252  git checkout ramaB
+  253  ls
+  254  git add B.txt 
+  255  git commit -m "Archivo B.txt en la ramaB"
+  256  ls
+  257  git checkout master
+  258  ls
+  259  git checkout ramaC
+  260  ls
+  261  git checkout master 
+  262  ls
+  263  push -u origin master
+  264  git push -u origin master
+  265  git checkout ramaB
+  266  git push -u origin ramaB
+  267  git checkout ramaC
+  268  ls
+  269  git push -u origin ramaC
+  270  git checkout master
+  271  git merge ramaB
+  272  ls
+  273  git merge ramaC
+  274  ls
+  275  git push -u origin master
+  276  ls
+  277  cd..
+  278  cd .
+  279  cd ..
+  280  ls
+  281  cd ..
+  282  cd ..
+  283  ls 
+  284  cd d
+  285  ls
+  286  clear
+  287  ls
+  288  cd 1º\ DAM/
+  289  ls
+  290  cd EntornosDesarrollamiento/
+  291  ls
+  292  cd UD3/
+  293  ls
+  294  cd Practica3UD3/
+  295  ls
+  296  cd practica3/
+  297  ls
+  298  clear
+  299  git init
+  300  git clone https://github.com/AitorAD/practica2_git.git
+  301  ls
+  302  ls
+  303  cd practica2_git/
+  304  ls
+  305  mkdir unidades
+  306  clear
+  307  ls
+  308  git branch Windows
+  309   git config --global --add safe.directory 'D:/1º DAM/EntornosDesarrolla
+  310  git config --global --add safe.directory 'D:/1º DAM/EntornosDesarrollamiento/UD3/Practica3UD3/practica3/practica2_git'
+  311  git branch Windows
+  312  git branch Ubuntu
+  313  git checkout Windows 
+  314  nano windows1.txt
+  315  git add windows1.txt 
+  316  git commit -m "Añadido fichero windows1"
+  317  git log
+  318  git push -u origin Windows 
+  319  git checkout Ubuntu 
+  320  nano ubuntu1.txt
+  321  git add ubuntu1.txt 
+  322  clear
+  323  git commit -m "Añadido ubuntu1"
+  324  git log
+  325  clear
+  326  git push -u origin Ubuntu 
+  327  git checkout Windows 
+  328  ls
+  329  cd unidades/
+  330  ls
+  331  clear
+  332  nano windows2.txt
+  333  git add windows2.txt 
+  334  git commit -m "añadido windows2.txt"
+  335  git log
+  336  clear
+  337  ls
+  338  nano windows2.txt 
+  339  git add
+  340  git add windows2.txt 
+  341  git log
+  342  git diff "Añadido fichero windows1" "añadido windows2.txt"
+  343  git diff HEAD^ HEAD
+  344  log
+  345  git log
+  346  git diff HEAD~2
+  347  clear
+  348  ls
+  349  git commit -m "Añadidas versiones a windows2.txt"
+  350  git log --follow windows2.txt
+  351  git checkout master 
+  352  git merge Windows 
+  353  git merge Ubuntu 
+  354  git branch
+  355  git branch -d Windows 
+  356  git branch -d Ubuntu 
+  357  git branch -D Windows
+  358  cd ..
+  359  cd ..
+  360  cd ..
+  361  cd d
+  362  ls
+  363  cd 1º\ DAM/
+  364  ls
+  365  cd EntornosDesarrollamiento/
+  366  ls
+  367  cd UD3/
+  368  ls
+  369  cd Practica3UD3/
+  370  ls
+  371  clear
+  372  ls
+  373  cd practica3/
+  374  ls
+  375  cd practica2_git/
+  376  ls
+  377  git add --all
+  378  git commit -m "Añadido Archivo MK Practica 3"
+  379  git push -u origin master
+  380  clear
+  381  clear
+  382  ls
+  383  cd Desktop/
+  384  ls
+  385  clear
+  386  cd examenUD3ED/
+  387  ls
+  388  clear
+  389  git init
+  390  git remote add origin https://github.com/AitorAD/AAAExamen23ED.git
+  391  nano main.java
+  392  ls
+  393  clear
+  394  git add -all
+  395  git add --all
+  396  git commit -m "Primer commit. Nuevo main.java"
+  397  git push -u origin master
+  398  nano ExplicaCalculadora.txt
+  399  nano NoSubir.txt
+  400  clear
+  401  git status
+  402  git add --all
+  403  git status
+  404  git rm --cached NoSubir.txt 
+  405  git status
+  406  git commit -m "Segundo commit. Nuevo ExplicaCalculadora.txt"
+  407  git push -u origin master
+  408  clear
+  409  git diff --staged
+  410  git log --oneline
+  411  git branch SUMADORES
+  412  git branch RESTADORES
+  413  git checkout SUMADORES 
+  414  nano main.java 
+  415  git add main.java 
+  416  git commit -m "Añadido ha main.java las funciones sumar, multiplicar y potencia"
+  417  git push -u origin SUMADORES 
+  418  clear
+  419  git checkout RESTADORES 
+  420  nano main.java 
+  421  git add main.java 
+  422  git commit -m "Añadido ha main.java las funciones restar, dividir y raizCuadrada"
+  423  git push -u origin RESTADORES 
+  424  git checkout master 
+  425  git diff SUMADORES RESTADORES 
+  426  nano DIFERENCIA_RAMAS.txt
+  427  clear
+  428  git add DIFERENCIA_RAMAS.txt 
+  429  git commit -m "Añadido DIFERENCIAS_RAMAS.txt"
+  430  git push -u origin master 
+  431  git merge SUMADORES 
+  432  git merge RESTADORES  
+  433  git merge RESTADORES  
+  434  git add --all
+  435  git commit -m "Añadidas fotos examen Git"
+  436  git push -u origin master 
+  437  git add --all
+  438  git commit -m "Añadidas fotos examen Git + cambios md"
+  439  git push -u origin master 
+  440  history > historial.txt
